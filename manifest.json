@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "troca-baño",
+    "description": "Troca baño",
+    "version": "1",
+    "author": "Troca",
+    "browser_action": {
+    "default_icon": "toilet-paper-red.png",
+    "default_title": "Esta libre el trocabaño?",
+    "default_popup": "popup.html"
+    },
+    "permissions": [
+        "https://enigmatic-caverns-58480.herokuapp.com/"
+    ],
+    "icons": {
+        "128": "toilet-paper-red.png"
+    }
+}
