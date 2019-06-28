@@ -7,7 +7,7 @@ function changeStatus(value) {
     //notifyMe('Ocupado!');
   } else {
     body.className = 'free';
-    body.innerHTML = 'Está libre campeón!';
+    body.innerHTML = 'Está libre champion!';
     //notifyMe('Está libre campeón!');
     //var audio = new Audio('cool.ogg');
     //audio.play();
