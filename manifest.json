@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "troca-baño",
     "description": "Troca baño",
-    "version": "1",
+    "version": "1.0.1",
     "author": "Troca",
     "browser_action": {
     "default_icon": "toilet-paper-red.png",

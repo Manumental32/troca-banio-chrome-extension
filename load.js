@@ -30,6 +30,7 @@ function load() {
 var loadInterval;
 
 function checkStatus() {
+  load();
   loadInterval = setInterval(function(){ load(); }, 10000);
 }
 
